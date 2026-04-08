@@ -115,7 +115,7 @@
       <p>Serving Harris County, Montgomery County, and surrounding Texas areas. New custom homes, remodels, add-ons, and general residential electric work.</p>
       <div class="btn-group">
         <a class="btn" href="tel:8325630637">Call Now</a>
-        <a class="btn btn-outline" href="mailto:martinezelectricalservicesllc@gmail.com">Email Us</a>
+        <a class="btn btn-outline" href="mailto:martinezelectricservicesllc@gmail.com">Email Us</a>
         <a class="btn btn-outline" href="https://www.facebook.com/share/1NzYjT6QcT/?mibextid=wwXIfr" target="_blank">Visit Facebook</a>
       </div>
     </div>
