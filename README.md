@@ -1,11 +1,11 @@
-# Martinezelectricalservices
+# Martinezelectricservices
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Martinez Electrical Services LLC</title>
-  <meta name="description" content="Professional electrical services in Harris and Montgomery County, Texas. New homes, remodels, add-ons, and general electrical work.">
+  <title>Martinez Electric Services LLC</title>
+  <meta name="description" content="Professional electric services in Harris and Montgomery County, Texas. New homes, remodels, add-ons, and general electric work.">
   <style>
     /* RESET & BASE */
     * {margin:0;padding:0;box-sizing:border-box;font-family:Arial, sans-serif;}
@@ -97,7 +97,7 @@
 
   <!-- NAVIGATION -->
   <nav>
-    <h2>Martinez Electrical</h2>
+    <h2>Martinez Electric</h2>
     <ul>
       <li><a href="#about">About</a></li>
       <li><a href="#services">Services</a></li>
@@ -110,9 +110,9 @@
   <!-- HERO -->
   <header>
     <div class="hero">
-      <h1>Martinez Electrical Services LLC</h1>
-      <h2>Professional Electrical Services You Can Trust</h2>
-      <p>Serving Harris County, Montgomery County, and surrounding Texas areas. New custom homes, remodels, add-ons, and general residential electrical work.</p>
+      <h1>Martinez Electric Services LLC</h1>
+      <h2>Professional Electric Services You Can Trust</h2>
+      <p>Serving Harris County, Montgomery County, and surrounding Texas areas. New custom homes, remodels, add-ons, and general residential electric work.</p>
       <div class="btn-group">
         <a class="btn" href="tel:8325630637">Call Now</a>
         <a class="btn btn-outline" href="mailto:martinezelectricalservicesllc@gmail.com">Email Us</a>
@@ -125,7 +125,7 @@
   <section id="about">
     <div class="container">
       <h3>About Us</h3>
-      <p class="section-text">At Martinez Electrical Services LLC, we deliver quality workmanship, dependable service, and honest communication. Whether you're building a new custom home, remodeling, or adding on, we provide safe, efficient, and professional electrical solutions you can trust.</p>
+      <p class="section-text">At Martinez Electric Services LLC, we deliver quality workmanship, dependable service, and honest communication. Whether you're building a new custom home, remodeling, or adding on, we provide safe, efficient, and professional electric solutions you can trust.</p>
     </div>
   </section>
 
@@ -133,16 +133,16 @@
   <section id="services" style="background:#111827;">
     <div class="container">
       <h3>Our Services</h3>
-      <p class="section-text">From new construction to remodels and additions, we handle a wide range of residential electrical work.</p>
+      <p class="section-text">From new construction to remodels and additions, we handle a wide range of residential electric work.</p>
       <div class="services-grid">
-        <div class="card"><img src="https://via.placeholder.com/300x200" alt="New Custom Home Wiring"><h4>New Custom Home Wiring</h4><p>Professional electrical setup for new residential builds.</p></div>
-        <div class="card"><img src="https://via.placeholder.com/300x200" alt="Home Remodel Electrical"><h4>Home Remodel Electrical</h4><p>Electrical upgrades and rewiring for remodel projects.</p></div>
-        <div class="card"><img src="https://via.placeholder.com/300x200" alt="Room Add-Ons"><h4>Room Add-Ons</h4><p>Electrical work for home additions and expansions.</p></div>
+        <div class="card"><img src="https://via.placeholder.com/300x200" alt="New Custom Home Wiring"><h4>New Custom Home Wiring</h4><p>Professional electric setup for new residential builds.</p></div>
+        <div class="card"><img src="https://via.placeholder.com/300x200" alt="Home Remodel Electric"><h4>Home Remodel Electric</h4><p>Electric upgrades and rewiring for remodel projects.</p></div>
+        <div class="card"><img src="https://via.placeholder.com/300x200" alt="Room Add-Ons"><h4>Room Add-Ons</h4><p>Electric work for home additions and expansions.</p></div>
         <div class="card"><img src="https://via.placeholder.com/300x200" alt="Lighting Installation"><h4>Lighting Installation</h4><p>Indoor and outdoor lighting installation and upgrades.</p></div>
         <div class="card"><img src="https://via.placeholder.com/300x200" alt="Outlet & Switch Installation"><h4>Outlet & Switch Installation</h4><p>Safe and efficient installation of outlets and switches.</p></div>
         <div class="card"><img src="https://via.placeholder.com/300x200" alt="Ceiling Fan Installation"><h4>Ceiling Fan Installation</h4><p>Reliable fan wiring and installation services.</p></div>
-        <div class="card"><img src="https://via.placeholder.com/300x200" alt="Panel Upgrades"><h4>Panel Upgrades</h4><p>Electrical panel improvements for better safety and capacity.</p></div>
-        <div class="card"><img src="https://via.placeholder.com/300x200" alt="Troubleshooting & Repairs"><h4>Troubleshooting & Repairs</h4><p>Fast diagnosis and repair for electrical issues.</p></div>
+        <div class="card"><img src="https://via.placeholder.com/300x200" alt="Panel Upgrades"><h4>Panel Upgrades</h4><p>Electric panel improvements for better safety and capacity.</p></div>
+        <div class="card"><img src="https://via.placeholder.com/300x200" alt="Troubleshooting & Repairs"><h4>Troubleshooting & Repairs</h4><p>Fast diagnosis and repair for electric issues.</p></div>
       </div>
     </div>
   </section>
@@ -155,7 +155,7 @@
         <div class="card"><h4>Quality Workmanship</h4><p>We focus on doing the job right the first time.</p></div>
         <div class="card"><h4>Reliable Service</h4><p>Professional, dependable, and responsive on every project.</p></div>
         <div class="card"><h4>Honest Communication</h4><p>Clear updates and straightforward service you can count on.</p></div>
-        <div class="card"><h4>Safe Electrical Solutions</h4><p>Electrical work completed with safety and care in mind.</p></div>
+        <div class="card"><h4>Safe Electric Solutions</h4><p>Electric work completed with safety and care in mind.</p></div>
       </div>
     </div>
   </section>
@@ -166,8 +166,8 @@
       <h3>Service Area</h3>
       <p class="section-text">Proudly serving homeowners and builders across Harris County, Montgomery County, and surrounding areas.</p>
       <div class="areas-grid">
-        <div class="card"><h4>Harris County</h4><p>Residential electrical services across the county.</p></div>
-        <div class="card"><h4>Montgomery County</h4><p>Dependable electrical work for homes and projects.</p></div>
+        <div class="card"><h4>Harris County</h4><p>Residential electric services across the county.</p></div>
+        <div class="card"><h4>Montgomery County</h4><p>Dependable electric work for homes and projects.</p></div>
         <div class="card"><h4>Surrounding Areas</h4><p>Contact us to see if we service your location.</p></div>
       </div>
     </div>
@@ -178,10 +178,10 @@
     <div class="container">
       <h3>Contact Us</h3>
       <div class="contact-box">
-        <p><strong>Martinez Electrical Services LLC</strong></p>
+        <p><strong>Martinez Electric Services LLC</strong></p>
         <p>📞 <a href="tel:8325630637" style="color:#facc15;">832-563-0637</a></p>
         <p>✉️ <a href="mailto:martinezelectricalservicesllc@gmail.com" style="color:#facc15;">martinezelectricalservicesllc@gmail.com</a></p>
-        <p>Need electrical work done? Call, email, or message us on Facebook today.</p>
+        <p>Need electric work done? Call, email, or message us on Facebook today.</p>
         <div class="btn-group">
           <a class="btn" href="tel:8325630637">Call Now</a>
           <a class="btn btn-outline" href="mailto:martinezelectricalservicesllc@gmail.com">Request a Quote</a>
@@ -191,7 +191,7 @@
   </section>
 
   <footer>
-    <p>Martinez Electrical Services LLC</p>
+    <p>Martinez Electric Services LLC</p>
     <p>Serving Harris County & Montgomery County, Texas</p>
     <p>832-563-0637 | martinezelectricalservicesllc@gmail.com</p>
   </footer>
